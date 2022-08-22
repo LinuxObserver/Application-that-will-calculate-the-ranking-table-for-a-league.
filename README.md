@@ -5,3 +5,6 @@ First of all , it will extract all the team names and create a dictionary with t
 And then , it will read the file given line by line , splits the teams names and scores , and does a comparison , if its a tie then 1 point for each team , if it's not then 3 points to the winners and 0 to the loser .
 Finally , the script will search for duplicates , if found , it will delete them from the dict , rearrange then re-insert it back to a new dict with everything .
 Then a for loop to show the output in a proper form .
+
+
+“Challange accepted!”
